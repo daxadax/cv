@@ -1,0 +1,71 @@
+Dax DeFranco
+Senior Ruby Developer
+
+d.dax@email.com
+Berlin, Germany
+github.com/daxadax
+
+Primary Skills: Ruby, Ruby-on-Rails (v3/v4), Git, Linux, TDD, DDD, DevOps
+
+March 2017 - Present - Senior Developer @Doctena
+Tech Used: Ruby, Ruby-on-Rails, Minitest, Heroku, MongoDB
+
+  * Meta-search for doctor appointments (eHealth sector)
+  * Build and maintain a large codebase going through a corporate merger
+  * Create tools to support customer care and marketing teams
+
+February 2016 - November 2016 - Senior Developer @Trecker
+Tech Used: Ruby, Ruby-on-Rails, rSpec, AWS, Docker, ngrok, Heroku, PostgreSQL,
+Geo-positioning, Push Notifications, Big Data
+
+  * Digitalize the Agriculture industry
+  * Build and maintain the backend of a large-scale farm-tracking application
+  * Collaborate with Frontend and Mobile teams to create a consistent, stable
+    API
+  * Respond to large volumes of geodata in multiple streams using an AWS cloud
+    stack
+  * Transform data for record-keeping and reporting using custom algorithms
+
+July 2015 - November 2015 - Senior Developer @Dojo Madness GmbH
+Tech Used: Ruby, Ruby-on-Rails, rSpec, AWS, Heroku, PostgreSQL, web-scraping, Big Data
+
+  * Build features and maintain a big data application built around eSports
+  * Work with (and around) multiple 3rd-party APIs to produce reliable data-fetching
+    and delivery services
+  * Create and tweak algorithms with the data science team
+
+November 2014 - July 2015 - Lead Backend Developer (Manager2) @Neopoly GmbH
+Tech Used: Ruby, Ruby-on-Rails, Minitest, Javascript, mySQL, DDD
+
+  * Full responsibility of feature implementation and design
+  * Design and implement API to be consumed by 3rd-parties
+  * Create administrative tools and documentation
+
+November 2013 - November 2014 - Junior Developer @Neopoly GmbH
+
+  * Implement features via London-TDD methodologies
+  * Assist with frontend development and styling
+  * Implement various data reporting scripts
+  * Full refactor of end-to-end testing suite spanning 10+ domains
+
+2006 - 2013 - Teacher @Various orginizations
+
+  * Teach English, Maths and Science in various forms (EFL, ESL, GRE, Business)
+    to students in the United States, South Korea and Hungary
+  * Design, develop and lead courses with students ranging from young learners
+    to adults
+  * Create second-language courses for young learners, drawing heavily on
+    Bakthin's theory of Speech Genres and Jaynes' ideas regarding metaphor and
+    the development of awareness
+
+July 2004 - March 2007 - B.S. Network Telecommunications @DeVry University
+
+  * Overall GPA of 3.57/4.0
+  * Head Tutor of Telecommunications and English in the Academic Support Center
+
+Related Reading:
+
+ * "Growing Object-Oriented Software, Guided by Tests" - Steve Freeman, Nat Pryce
+ * "Implementing Domain-Driven Design" - Vaughn Vernon
+ * "Metaprogramming Ruby" - Paolo Perotta
+ * "Eloquent Ruby" - Russ Olsen
