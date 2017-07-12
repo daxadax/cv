@@ -8,7 +8,7 @@ github.com/daxadax
 Primary Skills: Ruby, Ruby-on-Rails (v3/v4), Git, Linux, TDD, DDD, DevOps
 
 March 2017 - Present - Senior Developer @Doctena
-Tech Used: Ruby, Ruby-on-Rails, Minitest, Heroku, MongoDB
+Tech Used: Ruby, Ruby-on-Rails, Minitest, AMQP/S, Heroku, MongoDB
 
   * Meta-search for doctor appointments (eHealth sector)
   * Build and maintain a large codebase going through a corporate merger
