@@ -5,13 +5,18 @@ d.dax@email.com
 Berlin, Germany
 github.com/daxadax
 
-Primary Skills: Ruby, Ruby-on-Rails (v3/v4), Git, Linux, TDD, DDD, DevOps
+Primary Skills: Ruby, Ruby-on-Rails (v3/v4), Git, Linux, TDD, DDD, DevOps,
+Node.js, Serverless Framework + AWS
 
 March 2017 - Present - Senior Developer @Doctena
-Tech Used: Ruby, Ruby-on-Rails, Minitest, AMQP/S, Heroku, MongoDB
+Tech Used: Ruby, Ruby-on-Rails, Minitest, AMQP/S, Heroku, MongoDB, Node.js,
+Serverless Framework + AWS
 
-  * Meta-search for doctor appointments (eHealth sector)
-  * Build and maintain a large codebase going through a corporate merger
+
+  * Full-stack development for meta-search site re: doctor appointments (eHealth sector)
+  * Implement new features and maintain a large codebase going through a corporate merger
+  * Build and maintain RabbitMQ-powered message system to facilitate data exchange between
+    the various platforms (Luxembourg, Belgium, Central Portal)
   * Create tools to support customer care and marketing teams
 
 February 2016 - November 2016 - Senior Developer @Trecker
