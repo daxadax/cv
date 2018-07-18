@@ -5,8 +5,10 @@ d.dax@email.com
 Berlin, Germany
 github.com/daxadax
 
-Primary Skills: Ruby, Ruby-on-Rails (v3/v4), Git, Linux, TDD, DDD, DevOps,
-Node.js, Serverless Framework + AWS
+Primary Skills: Ruby, Ruby-on-Rails (v3/v4), TDD, DDD, DevOps, Node.js,
+Serverless Framework + AWS
+
+Primary Tools: Git, Linux (Arch, Ubuntu flavors), Vim
 
 March 2017 - Present - Senior Developer @Doctena
 Tech Used: Ruby, Ruby-on-Rails, Minitest, AMQP/S, Heroku, MongoDB, Node.js,
