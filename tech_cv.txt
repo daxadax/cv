@@ -10,7 +10,7 @@ Serverless Framework + AWS
 
 Primary Tools: Git, Linux (Arch, Ubuntu flavors), Vim
 
-March 2017 - Present - Senior Developer @Doctena
+March 2017 - June 2018 - Senior Developer @Doctena
 Tech Used: Ruby, Ruby-on-Rails, Minitest, AMQP/S, Heroku, MongoDB, Node.js,
 Serverless Framework + AWS
 
@@ -20,6 +20,8 @@ Serverless Framework + AWS
   * Build and maintain RabbitMQ-powered message system to facilitate data exchange between
     the various platforms (Luxembourg, Belgium, Central Portal)
   * Create tools to support customer care and marketing teams
+  * Break apart monolith Rails application into Node/AWS powered microservices
+  * Implement changes related to GDPR
 
 February 2016 - November 2016 - Senior Developer @Trecker
 Tech Used: Ruby, Ruby-on-Rails, rSpec, AWS, Docker, ngrok, Heroku, PostgreSQL,
