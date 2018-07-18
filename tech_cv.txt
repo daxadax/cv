@@ -14,7 +14,6 @@ March 2017 - June 2018 - Senior Developer @Doctena
 Tech Used: Ruby, Ruby-on-Rails, Minitest, AMQP/S, Heroku, MongoDB, Node.js,
 Serverless Framework + AWS
 
-
   * Full-stack development for meta-search site re: doctor appointments (eHealth sector)
   * Implement new features and maintain a large codebase going through a corporate merger
   * Build and maintain RabbitMQ-powered message system to facilitate data exchange between
